@@ -1,0 +1,4 @@
+3
+Hi!
+This is a sample file.
+Each cell in a Bigtable can contain multiple versions of the same data; these versions are indexed by timestamp.

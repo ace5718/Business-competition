@@ -1,0 +1,6 @@
+are
+Each cell in a Bigtable can contain multiple versions of the same data; these versions are indexed by
+timestamp.
+
+Bigtable timestamps are integers.
+EOF

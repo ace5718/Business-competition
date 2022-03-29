@@ -1,0 +1,11 @@
+C:\Users\CKVS\Desktop\1024\模擬考試\Q6\bin\Debug\Q6.exe.config
+C:\Users\CKVS\Desktop\1024\模擬考試\Q6\bin\Debug\Q6.exe
+C:\Users\CKVS\Desktop\1024\模擬考試\Q6\bin\Debug\Q6.pdb
+C:\Users\CKVS\Desktop\1024\模擬考試\Q6\bin\Debug\Q6.xml
+C:\Users\CKVS\Desktop\1024\模擬考試\Q6\obj\Debug\Q6.vbprojAssemblyReference.cache
+C:\Users\CKVS\Desktop\1024\模擬考試\Q6\obj\Debug\Q6.Form1.resources
+C:\Users\CKVS\Desktop\1024\模擬考試\Q6\obj\Debug\Q6.Resources.resources
+C:\Users\CKVS\Desktop\1024\模擬考試\Q6\obj\Debug\Q6.vbproj.GenerateResource.cache
+C:\Users\CKVS\Desktop\1024\模擬考試\Q6\obj\Debug\Q6.exe
+C:\Users\CKVS\Desktop\1024\模擬考試\Q6\obj\Debug\Q6.xml
+C:\Users\CKVS\Desktop\1024\模擬考試\Q6\obj\Debug\Q6.pdb
